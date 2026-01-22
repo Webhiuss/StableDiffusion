@@ -72,3 +72,5 @@ Contributions to StableDiffusion are welcome and appreciated! We value community
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/StableDiffusion/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
